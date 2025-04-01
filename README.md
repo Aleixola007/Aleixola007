@@ -1,4 +1,4 @@
-<p align="left">Hello, i'm Aleixo, and i'm student of data cience and programing.</p>
+<p align="left">Hello, i'm Aleixo, and i'm student of data cience and AI.</p>
 
 ###
 
